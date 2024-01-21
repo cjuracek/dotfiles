@@ -9,7 +9,7 @@ repos:
     -   id: poetry-check
     -   id: poetry-export
 -   repo: https://github.com/google/yamlfmt
-    rev: 0.10.0
+    rev: v0.10.0
     hooks:
     -   id: yamlfmt
 -   repo: https://github.com/PyCQA/isort
