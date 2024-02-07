@@ -1,0 +1,10 @@
+[user]
+	name = "Cole Juracek"
+	email = therealjuracek@gmail.com
+[core]
+	editor = vim
+[alias]
+	br = branch
+	st = status
+	cm = commit -m
+	cam = commit -am
