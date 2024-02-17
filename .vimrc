@@ -1,3 +1,4 @@
+set incsearch
 set number
 
 " Map jj in insert mode to escape key
